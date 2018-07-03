@@ -23,4 +23,4 @@ Categrize our methods into three different groups:
 > ![Redux categrazie example](./action-categrize.png)
 
 Green: command; Yellow: Event; Red: Document
-> ![Action processing patterns](./action-processing-patterns.png)
+> ![Action processing patterns](./action-processing-patterns.png)git
