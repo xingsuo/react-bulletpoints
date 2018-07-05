@@ -24,3 +24,6 @@ Categrize our methods into three different groups:
 
 Green: command; Yellow: Event; Red: Document
 > ![Action processing patterns](./action-processing-patterns.png)git
+
+[Practical Advanced Redux Webinar](https://www.youtube.com/watch?v=DqWiuvuK_78)
+
